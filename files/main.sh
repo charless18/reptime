@@ -1,6 +1,6 @@
 echo 正在部署环境
 REPLSLUG=${REPL_SLUG}
-nohup wget https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/files/var.var -O ./var
+nohup wget https://repl-assets.rd1017.top/var.var -O ./var
 source ./var
 TPWD=$(curl -s $REPLIT_DB_URL/TPWD)
 UUID=$(curl -s $REPLIT_DB_URL/UUID)
@@ -11,7 +11,7 @@ ra=ra
 y=y
 FILE_NAME="$RAMDOM_1.zip"
 echo "正在下载"
-nohup wget https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/files/Replit-v2ray-main.zip -O "$FILE_NAME"
+nohup wget https://short-url.redball1017.tk/mmswFY -O "$FILE_NAME"
 echo 正在解压
 if [ ! -d "CORE" ]; then
   unzip -d CORE $FILE_NAME &> /dev/null
