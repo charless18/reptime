@@ -7,7 +7,6 @@ wget -O CNAME https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/file
 wget -O README.md https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/files/README.md
 wget -O main.sh https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/files/main.sh
 wget -O replit.nix https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/files/replit.nix
-bash main.sh
 echo "恭喜项目搭建完成"
 echo "点击Run立即运行项目"
 echo "服务器地址： https://项目名.用户名.repl.co"
