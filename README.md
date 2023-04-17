@@ -10,7 +10,7 @@ uptime-kuma官仓：https://github.com/louislam/uptime-kuma
 # 搭建说明：
 在Replit.com创建`Python`环境，在`Shell`中运行以下代码
 ````
-bash <(curl -s  https://raw.githubusercontent.com/ok8023/Uptime_To_Replit/main/install.sh)
+bash <(curl -s  https://raw.githubusercontent.com/ok8023/V2ray_To_Replit/main/install.sh)
 ````
 当加载完 `Loading Nix environment...` 后点击`Run`
 
